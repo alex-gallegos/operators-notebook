@@ -1,78 +1,14 @@
 Name(Gender/Age/Level),Attempted Date Time,Key 'A' Time(sec/ms),Key '7' Time(sec/ms),Word 'Dog' Time(sec/ms),Window(sec/ms),Asistencia,Errores,Edad,Nivel de escoralidad,Experiencia con tecnología
-Miguel (M/66/Level 1),2022-05-24 3:11:09,0.92,1.99,02.02,4.94,,,,,
-Miguel (M/66/Level 1),2022-05-24 3:11:01,0.59,1.30,3.51,5.40,,,,,
-Miguel (M/66/Level 1),2022-05-24 3:10:53,0.63,1.21,1.42,3.26,,,,,
-Miguel (M/66/Level 1),2022-05-24 3:10:47,0.65,0.90,1.48,03.04,,,,,
-Miguel (M/66/Level 1),2022-05-24 3:10:39,1.53,01.03,1.52,04.08,,,,,
-Miguel (M/66/Level 1),2022-05-24 3:10:31,8.62,4.85,23.82,37.28,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:26:25,3.23,2.86,4.53,10.62,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:25:56,5.35,2.35,6.52,14.22,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:25:10,03.02,2.51,5.74,11.27,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:24:24,3.23,2.62,6.40,12.24,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:20:33,2.52,3.20,7.97,13.69,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:18:34,4.87,4.87,8.87,18.61,,,,,
-Juan Jesus Flores(M/49/Elderly),2022-05-19 14:18:06,6.21,3.68,9.39,19.28,,,,,
-DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:53:26,02.05,1.33,02.05,5.44,,,,,
-DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:52:10,3.47,1.43,13.76,18.66,,,,,
-DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:50:45,15.82,30.75,38.50,85.06,,,,,
-leticia(F/63/Elderly),2022-05-19 13:05:54,0.74,01.05,3.88,5.67,,,,,
-leticia(F/63/Elderly),2022-05-19 13:05:45,1.22,1.86,3.47,6.55,,,,,
-leticia(F/63/Elderly),2022-05-19 13:05:35,03.07,1.83,3.29,8.19,,,,,
-leticia(F/63/Elderly),2022-05-19 13:05:24,1.96,02.06,4.40,8.42,,,,,
-leticia(F/63/Elderly),2022-05-19 13:05:12,4.17,3.87,5.97,14.00,,,,,
-Jorge Gomez(M/59/Level 1),2022-05-19 12:58:37,1.18,1.31,1.58,04.06,1,,60,Educacion Superior,Basica
-Jorge Gomez(M/59/Level 1),2022-05-19 12:58:29,1.20,1.18,1.39,3.77,,,60,Educacion Superior,Basica
-Jorge Gomez(M/59/Level 1),2022-05-19 12:58:21,0.98,1.10,1.58,3.66,,,60,Educacion Superior,Basica
-Jorge Gomez(M/59/Level 1),2022-05-19 12:58:12,2.62,1.31,1.59,5.52,,,60,Educacion Superior,Basica
-Jorge Gomez(M/59/Level 1),2022-05-19 12:58:00,2.30,1.99,2.14,6.43,,,60,Educacion Superior,Basica
-Omar(M/61/Elderly),2022-05-19 12:07:58,0.90,0.75,1.37,03.01,,,,,
-Omar(M/61/Elderly),2022-05-19 12:07:50,01.07,01.08,1.89,04.04,,,,,
-Omar(M/61/Elderly),2022-05-19 12:07:41,1.21,2.55,2.58,6.34,,,,,
-Omar(M/61/Elderly),2022-05-19 12:07:30,1.34,2.65,2.23,6.22,,,,,
-Omar(M/61/Elderly),2022-05-19 12:07:19,10.60,3.18,3.35,17.13,,,,,
-Maria(F/49/Level 1),2022-05-19 10:41:13,1.73,01.09,2.74,5.56,,,,,
-Maria(F/49/Level 1),2022-05-19 10:40:59,02.08,1.10,3.73,6.91,,,,,
-Maria(F/49/Level 1),2022-05-19 10:40:45,1.93,1.48,4.37,7.78,,,,,
-Maria(F/49/Level 1),2022-05-19 10:40:29,2.85,1.59,17.14,21.57,,,,,
-Maria(F/49/Level 1),2022-05-19 10:39:59,3.16,2.92,4.52,10.60,,,,,
-Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:03:15,1.68,1.00,1.48,4.15,,,,,
-Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:52,1.62,01.02,1.40,04.04,,,,,
-Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:36,1.65,1.99,2.31,5.94,,,,,
-Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:08,2.62,1.82,2.19,6.63,,,,,
-Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:01:37,14.49,8.96,3.36,26.80,,,,,
-Verenice Alviso(F/62/Elderly),2022-05-19 5:34:58,4.62,4.22,09.02,17.86,,,,,
-Verenice Alviso(F/62/Elderly),2022-05-19 5:34:31,4.14,4.62,18.82,27.58,,,,,
-Verenice Alviso(F/62/Elderly),2022-05-19 5:33:55,3.78,5.26,10.39,19.43,,,,,
-Verenice Alviso(F/62/Elderly),2022-05-19 5:33:26,4.90,5.47,17.80,28.16,,,,,
-Verenice Alviso(F/62/Elderly),2022-05-19 5:32:45,07.09,6.70,10.48,24.28,,,,,
-Josue(M/49/Level 2),2022-05-19 5:16:52,02.05,01.06,3.99,7.10,,,,,
-Josue(M/49/Level 2),2022-05-19 5:16:36,0.70,1.96,5.70,8.36,,,,,
-Josue(M/49/Level 2),2022-05-19 5:16:18,4.25,1.82,6.89,12.96,,,,,
-Josue(M/49/Level 2),2022-05-19 5:15:56,04.02,2.25,6.80,13.06,,,,,
-Josue(M/49/Level 2),2022-05-19 5:15:39,1.23,1.75,3.69,6.67,,,,,
-Josue(M/49/Level 2),2022-05-19 5:15:04,03.02,2.44,6.59,12.05,,,,,
-Edith(F/53/Level 1),2022-05-19 3:36:54,0.97,0.98,1.66,3.61,,,,,
-Edith(F/53/Level 1),2022-05-19 3:36:34,01.06,0.84,2.28,4.17,,,,,
-Edith(F/53/Level 1),2022-05-19 3:36:15,1.26,01.04,02.03,4.33,,,,,
-Edith(F/53/Level 1),2022-05-19 3:35:52,1.40,1.81,4.41,7.62,,,,,
-Edith(F/53/Level 1),2022-05-19 3:35:28,4.31,02.07,2.81,9.19,,,,,
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:57,0.82,0.51,1.19,2.52,1,1,86,UNIVERSIDAD,BASICA
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:48,0.56,0.25,1.75,2.56,0,0,86,UNIVERSIDAD,BASICA
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:41,1.22,0.65,0.97,2.84,0,0,86,UNIVERSIDAD,BASICA
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:32,0.81,0.46,1.31,2.57,0,0,86,UNIVERSIDAD,BASICA
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:21:11,2.71,3.26,2.36,8.33,0,0,86,UNIVERSIDAD,BASICA
-Gabriel Paramo(M/86/Level 1),2022-05-19 3:20:03,3.85,1.31,04.07,9.23,0,0,86,UNIVERSIDAD,BASICA
-Maria Jimenez(F/67/Elderly),2022-05-19 1:40:32,1.78,2.86,2.82,7.46,0,0,68,Primaria,Intermedia
-Maria Jimenez(F/67/Elderly),2022-05-19 1:39:30,3.26,4.31,3.19,10.76,0,0,68,Primaria,Intermedia
-Maria Jimenez(F/67/Elderly),2022-05-19 1:38:53,03.03,3.46,6.81,13.30,0,0,68,Primaria,Intermedia
-Maria Jimenez(F/67/Elderly),2022-05-19 1:35:44,4.92,5.22,5.14,15.28,0,0,68,Primaria,Intermedia
-Maria Jimenez(F/67/Elderly),2022-05-19 1:34:04,10.64,2.85,6.71,20.20,1,1,68,Primaria,Intermedia
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:58,1.28,1.69,1.95,4.92,0,0,75,Primaria,Basica
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:47,1.34,0.99,2.37,4.70,0,0,75,Primaria,Basica
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:37,1.34,1.31,2.52,5.17,0,0,75,Primaria,Basica
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:25,1.70,2.19,03.07,6.96,0,0,75,Primaria,Basica
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:11,1.75,1.67,3.30,6.72,3,1,75,Primaria,Basica
-Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:29:58,3.23,2.19,3.68,9.10,3,5,75,Primaria,Basica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:43:30,7.37,08.07,27.38,42.82,1,0,61,Primaria,Básica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:41:23,8.12,10.89,28.22,47.23,0,0,61,Primaria,Básica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:26:17,9.61,9.79,29.51,48.90,0,0,61,Primaria,Básica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:02:40,9.37,10.60,34.13,54.10,0,0,61,Primaria,Básica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 11:56:56,6.76,6.56,17.32,30.63,0,0,61,Primaria,Básica
+Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 11:51:54,10.52,14.16,28.48,53.17,0,0,61,Primaria,Básica
+Alejandra Ceceña(F/26/Level 1),2022-05-12 13:54:02,1.53,1.55,2.20,5.28,,,,,
+Alejandra Ceceña(F/26/Level 1),2022-05-12 13:51:57,1.80,1.38,1.91,5.10,,,,,
+Alejandra Ceceña(F/26/Level 1),2022-05-12 13:44:13,7.79,2.67,49.90,60.36,,,,,
+Alejandra Ceceña(F/26/Level 1),2022-05-12 13:27:07,2.92,1.69,2.39,7.00,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:51:34,01.09,01.01,1.57,3.67,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:51:22,3.50,0.94,1.86,6.30,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:51:09,01.07,0.98,05.04,07.09,,,,,
@@ -80,23 +16,42 @@ Altagracia(F/49/Elderly),2022-05-18 14:50:48,0.82,1.12,1.60,3.54,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:50:40,3.51,01.02,1.58,6.11,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:50:30,1.53,1.18,1.91,4.63,,,,,
 Altagracia(F/49/Elderly),2022-05-18 14:49:29,17.67,5.78,9.62,33.07,,,,,
-Margarita(F/0/Level 1),2022-05-18 14:09:47,1.80,1.93,4.61,8.34,,,,,
-Margarita(F/0/Level 1),2022-05-18 14:04:37,3.68,4.35,14.84,22.87,,,,,
-Margarita(F/0/Level 1),2022-05-18 14:03:41,6.68,6.23,15.27,28.18,,,,,
-Margarita(F/0/Level 1),2022-05-18 14:03:09,6.35,9.51,19.60,35.46,,,,,
-Margarita(F/0/Level 1),2022-05-18 14:01:54,5.13,03.07,13.98,22.18,,,,,
-Margarita(F/0/Level 1),2022-05-18 13:59:23,03.02,7.79,6.33,17.14,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:59:08,1.54,01.08,1.47,04.09,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:58:39,1.54,01.08,1.47,04.09,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:58:16,2.79,1.98,02.04,6.81,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:57:57,1.55,1.27,2.94,5.76,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:57:41,2.19,2.65,2.73,7.56,,,,,
-Manuel FLores(M/23/Level 1),2022-05-18 12:57:18,4.57,2.93,3.20,10.70,,,,,
-Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:45,01.02,01.01,1.47,3.50,,,,,
-Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:34,1.32,0.91,2.21,4.45,,,,,
-Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:22,1.00,01.07,1.55,3.62,,,,,
-Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:09,1.80,1.61,1.81,5.22,,,,,
-Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:43:44,5.26,2.65,02.09,10.00,,,,,
+DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:53:26,02.05,1.33,02.05,5.44,,,,,
+DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:52:10,3.47,1.43,13.76,18.66,,,,,
+DENISE CRUZ APARICIO(F/0/Elderly),2022-05-19 13:50:45,15.82,30.75,38.50,85.06,,,,,
+Dionicia(F/72/Elderly),2022-05-18 9:26:12,1.13,1.23,1.37,3.74,0,0,72,Primaria,Básica
+Dionicia(F/72/Elderly),2022-05-18 9:26:04,01.09,1.12,1.44,3.66,0,0,72,Primaria,Básica
+Dionicia(F/72/Elderly),2022-05-18 9:25:55,01.05,1.31,1.90,4.26,0,0,72,Primaria,Básica
+Dionicia(F/72/Elderly),2022-05-18 9:25:45,1.45,1.68,2.35,5.48,0,0,72,Primaria,Básica
+Dionicia(F/72/Elderly),2022-05-18 9:25:36,1.72,2.13,2.50,6.36,1,1,72,Primaria,Básica
+Dionicia(F/72/Elderly),2022-05-18 9:25:20,13.31,5.64,2.67,21.62,3,2,72,Primaria,Básica
+Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:06:30,1.87,1.53,2.52,5.92,0,0,61,Licenciatura,Elderly
+Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:06:02,1.41,1.50,2.89,5.79,0,0,61,Licenciatura,Elderly
+Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:05:34,1.59,1.75,2.81,6.15,0,0,61,Licenciatura,Elderly
+Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:05:04,02.09,2.57,2.42,07.08,0,0,61,Licenciatura,Elderly
+Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:04:28,6.98,07.06,2.80,16.83,2,0,61,Licenciatura,Elderly
+Edith(F/53/Level 1),2022-05-19 3:36:54,0.97,0.98,1.66,3.61,,,,,
+Edith(F/53/Level 1),2022-05-19 3:36:34,01.06,0.84,2.28,4.17,,,,,
+Edith(F/53/Level 1),2022-05-19 3:36:15,1.26,01.04,02.03,4.33,,,,,
+Edith(F/53/Level 1),2022-05-19 3:35:52,1.40,1.81,4.41,7.62,,,,,
+Edith(F/53/Level 1),2022-05-19 3:35:28,4.31,02.07,2.81,9.19,,,,,
+Fabiola(F/60/Level 1),2022-05-18 11:30:38,1.19,1.20,02.08,4.47,,,,,
+Fabiola(F/60/Level 1),2022-05-18 11:30:07,1.38,1.55,2.59,5.52,,,,,
+Fabiola(F/60/Level 1),2022-05-18 11:29:33,1.51,1.34,2.11,4.97,,,,,
+Fabiola(F/60/Level 1),2022-05-18 11:29:00,1.63,1.89,2.90,6.42,,,,,
+Fabiola(F/60/Level 1),2022-05-18 11:28:22,8.51,2.82,4.37,15.70,,,,,
+Federico Guevara(M/65/Elderly),2022-05-17 1:24:12,0.59,0.24,1.37,2.19,0,0,65,Preparatoria,Basica
+Federico Guevara(M/65/Elderly),2022-05-17 1:23:57,0.71,0.17,1.22,2.10,0,0,65,Preparatoria,Basica
+Federico Guevara(M/65/Elderly),2022-05-17 1:23:44,1.46,0.52,1.27,3.24,0,0,65,Preparatoria,Basica
+Federico Guevara(M/65/Elderly),2022-05-17 1:23:31,1.56,0.84,1.72,4.12,0,0,65,Preparatoria,Basica
+Federico Guevara(M/65/Elderly),2022-05-17 1:22:56,7.61,2.62,2.54,12.78,1,0,65,Preparatoria,Basica
+Federico Guevara(M/65/Elderly),2022-05-17 1:22:30,08.08,10.18,6.55,24.82,3,0,65,Preparatoria,Basica
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:57,0.82,0.51,1.19,2.52,1,1,86,UNIVERSIDAD,BASICA
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:48,0.56,0.25,1.75,2.56,0,0,86,UNIVERSIDAD,BASICA
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:41,1.22,0.65,0.97,2.84,0,0,86,UNIVERSIDAD,BASICA
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:22:32,0.81,0.46,1.31,2.57,0,0,86,UNIVERSIDAD,BASICA
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:21:11,2.71,3.26,2.36,8.33,0,0,86,UNIVERSIDAD,BASICA
+Gabriel Paramo(M/86/Level 1),2022-05-19 3:20:03,3.85,1.31,04.07,9.23,0,0,86,UNIVERSIDAD,BASICA
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:31:54,3.14,1.26,2.74,7.14,,,,,
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:30:20,3.33,1.63,4.22,9.19,,,,,
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:29:07,5.19,1.46,2.50,9.14,,,,,
@@ -111,112 +66,157 @@ guadalupe Chavez(F/50/Level 1),2022-05-18 12:18:11,3.87,2.23,4.31,10.42,,,,,
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:17:01,4.73,02.03,13.34,20.10,,,,,
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:15:25,7.52,3.83,4.66,16.01,,,,,
 guadalupe Chavez(F/50/Level 1),2022-05-18 12:13:29,76.63,15.79,14.88,107.29,,,,,
-Fabiola(F/60/Level 1),2022-05-18 11:30:38,1.19,1.20,02.08,4.47,,,,,
-Fabiola(F/60/Level 1),2022-05-18 11:30:07,1.38,1.55,2.59,5.52,,,,,
-Fabiola(F/60/Level 1),2022-05-18 11:29:33,1.51,1.34,2.11,4.97,,,,,
-Fabiola(F/60/Level 1),2022-05-18 11:29:00,1.63,1.89,2.90,6.42,,,,,
-Fabiola(F/60/Level 1),2022-05-18 11:28:22,8.51,2.82,4.37,15.70,,,,,
+Guadalupe Margarita(F/81/Elderly),2022-05-18 9:35:15,2.24,1.94,4.48,8.66,,,,,
+Guadalupe Margarita(F/81/Elderly),2022-05-18 9:34:29,2.84,2.51,4.73,10.08,,,,,
+Guadalupe Margarita(F/81/Elderly),2022-05-18 9:33:39,3.22,3.15,4.44,10.80,,,,,
+Guadalupe Margarita(F/81/Elderly),2022-05-18 9:32:56,2.23,03.02,4.55,9.80,,,,,
+Guadalupe Margarita(F/81/Elderly),2022-05-18 9:32:12,7.22,3.55,5.61,16.38,,,,,
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:58,1.28,1.69,1.95,4.92,0,0,75,Primaria,Basica
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:47,1.34,0.99,2.37,4.70,0,0,75,Primaria,Basica
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:37,1.34,1.31,2.52,5.17,0,0,75,Primaria,Basica
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:25,1.70,2.19,03.07,6.96,0,0,75,Primaria,Basica
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:30:11,1.75,1.67,3.30,6.72,3,1,75,Primaria,Basica
+Guillermo Garcia Perez(M/75/Elderly),2022-05-19 0:29:58,3.23,2.19,3.68,9.10,3,5,75,Primaria,Basica
 hilaria rivera(F/50/Level 1),2022-05-18 11:22:03,1.67,2.93,07.02,11.61,,,,,
 hilaria rivera(F/50/Level 1),2022-05-18 11:21:36,3.54,1.73,2.99,8.26,,,,,
 hilaria rivera(F/50/Level 1),2022-05-18 11:20:46,17.03,7.93,7.87,32.83,,,,,
 hilaria rivera(F/50/Level 1),2022-05-18 11:19:50,16.18,6.66,18.64,41.48,,,,,
 hilaria rivera(F/50/Level 1),2022-05-18 11:18:46,14.49,8.73,39.42,62.65,,,,,
-Manuel(M/62/Elderly),2022-05-18 10:42:12,0.64,1.53,2.15,4.32,,,,,
-Manuel(M/62/Elderly),2022-05-18 10:42:04,1.57,1.47,2.23,5.27,,,,,
-Manuel(M/62/Elderly),2022-05-18 10:41:47,1.82,1.66,3.99,7.46,,,,,
-Manuel(M/62/Elderly),2022-05-18 10:41:29,1.33,4.21,03.06,8.59,,,,,
-Maria(F/65/Level 2),2022-05-18 10:33:20,0.77,0.98,3.58,5.32,1,1,65,Secundaria,Basica
-Maria(F/65/Level 2),2022-05-18 10:32:25,1.89,3.85,4.21,9.95,1,1,65,Secundaria,Basica
-Maria(F/65/Level 2),2022-05-18 10:31:45,3.79,2.33,3.19,9.31,0,2,65,Secundaria,Basica
-Manuel(M/62/Elderly),2022-05-18 10:30:59,3.00,3.82,13.18,20.00,,,,,
-Maria(F/65/Level 2),2022-05-18 10:30:11,1.71,1.56,6.92,10.18,0,1,65,Secundaria,Basica
-Maria(F/65/Level 2),2022-05-18 10:25:34,11.83,2.89,3.16,17.88,1,0,65,Secundaria,Basica
-Guadalupe Margarita(F/81/Elderly),2022-05-18 9:35:15,2.24,1.94,4.48,8.66,,,,,
-Guadalupe Margarita(F/81/Elderly),2022-05-18 9:34:29,2.84,2.51,4.73,10.08,,,,,
-Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:33:46,2.32,1.60,3.14,07.06,3,0,61,Primaria,Basica
-Guadalupe Margarita(F/81/Elderly),2022-05-18 9:33:39,3.22,3.15,4.44,10.80,,,,,
-Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:33:29,1.76,1.67,3.23,6.66,0,0,61,Primaria,Basica
-Guadalupe Margarita(F/81/Elderly),2022-05-18 9:32:56,2.23,03.02,4.55,9.80,,,,,
-Guadalupe Margarita(F/81/Elderly),2022-05-18 9:32:12,7.22,3.55,5.61,16.38,,,,,
-Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:31:44,2.17,1.84,3.78,7.78,0,0,61,Primaria,Basica
-Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:31:23,3.31,2.54,4.89,10.75,0,0,61,Primaria,Basica
-Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:30:47,7.66,8.21,7.23,23.10,0,0,61,Primaria,Basica
-Dionicia(F/72/Elderly),2022-05-18 9:26:12,1.13,1.23,1.37,3.74,0,0,72,Primaria,Básica
-Dionicia(F/72/Elderly),2022-05-18 9:26:04,01.09,1.12,1.44,3.66,0,0,72,Primaria,Básica
-Dionicia(F/72/Elderly),2022-05-18 9:25:55,01.05,1.31,1.90,4.26,0,0,72,Primaria,Básica
-Dionicia(F/72/Elderly),2022-05-18 9:25:45,1.45,1.68,2.35,5.48,0,0,72,Primaria,Básica
-Dionicia(F/72/Elderly),2022-05-18 9:25:36,1.72,2.13,2.50,6.36,1,1,72,Primaria,Básica
-Dionicia(F/72/Elderly),2022-05-18 9:25:20,13.31,5.64,2.67,21.62,3,2,72,Primaria,Básica
-Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:55,2.13,02.03,04.05,8.21,,,,,
-Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:42,2.64,2.80,4.14,9.57,,,,,
-Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:27,2.37,2.16,21.00,25.53,,,,,
-Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:08:57,2.60,2.27,4.53,9.39,,,,,
-Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:08:43,2.97,2.48,11.46,16.91,,,,,
-Luis Alejandro(M/63/Elderly),2022-05-17 12:13:08,1.54,1.14,2.15,4.84,0,0,63,Preparatoria,Media
-Luis Alejandro(M/63/Elderly),2022-05-17 12:12:58,1.74,0.89,2.13,4.76,0,0,63,Preparatoria,Media
-Luis Alejandro(M/63/Elderly),2022-05-17 12:12:47,1.21,1.33,1.97,4.50,0,0,63,Preparatoria,Media
-Luis Alejandro(M/63/Elderly),2022-05-17 12:12:38,2.15,1.79,2.45,6.39,0,0,63,Preparatoria,Media
-Luis Alejandro(M/63/Elderly),2022-05-17 12:08:42,06.08,2.32,2.94,11.33,0,0,63,Preparatoria,Media
-Rosa Hernández(F/50/Elderly),2022-05-17 8:47:49,1.34,0.97,02.03,4.34,,,,,
-Rosa Hernández(F/50/Elderly),2022-05-17 8:47:15,1.21,02.04,4.99,8.24,,,,,
-Rosa Hernández(F/50/Elderly),2022-05-17 8:46:02,1.47,1.29,2.35,5.11,,,,,
-Rosa Hernández(F/50/Elderly),2022-05-17 8:45:21,2.00,1.73,2.48,6.21,,,,,
-Rosa Hernández(F/50/Elderly),2022-05-17 8:44:10,8.63,03.02,2.82,14.47,,,,,
-Federico Guevara(M/65/Elderly),2022-05-17 1:24:12,0.59,0.24,1.37,2.19,0,0,65,Preparatoria,Basica
-Federico Guevara(M/65/Elderly),2022-05-17 1:23:57,0.71,0.17,1.22,2.10,0,0,65,Preparatoria,Basica
-Federico Guevara(M/65/Elderly),2022-05-17 1:23:44,1.46,0.52,1.27,3.24,0,0,65,Preparatoria,Basica
-Federico Guevara(M/65/Elderly),2022-05-17 1:23:31,1.56,0.84,1.72,4.12,0,0,65,Preparatoria,Basica
-Federico Guevara(M/65/Elderly),2022-05-17 1:22:56,7.61,2.62,2.54,12.78,1,0,65,Preparatoria,Basica
-Federico Guevara(M/65/Elderly),2022-05-17 1:22:30,08.08,10.18,6.55,24.82,3,0,65,Preparatoria,Basica
+John(M/34/Level 2),2022-05-11 19:10:30,2.44,1.69,3.95,08.08,,,,,
+Jorge Gomez(M/59/Level 1),2022-05-19 12:58:37,1.18,1.31,1.58,04.06,1,0,60,Educacion Superior,Basica
+Jorge Gomez(M/59/Level 1),2022-05-19 12:58:29,1.20,1.18,1.39,3.77,0,0,60,Educacion Superior,Basica
+Jorge Gomez(M/59/Level 1),2022-05-19 12:58:21,0.98,1.10,1.58,3.66,0,0,60,Educacion Superior,Basica
+Jorge Gomez(M/59/Level 1),2022-05-19 12:58:12,2.62,1.31,1.59,5.52,0,0,60,Educacion Superior,Basica
+Jorge Gomez(M/59/Level 1),2022-05-19 12:58:00,2.30,1.99,2.14,6.43,0,0,60,Educacion Superior,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 13:00:18,2.88,02.04,3.84,8.77,1,1,62,Licenciatura,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 12:57:31,1.99,1.83,3.76,7.58,0,0,62,Licenciatura,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 12:57:12,1.60,1.89,3.54,07.03,0,0,62,Licenciatura,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 12:56:41,2.53,2.53,06.03,11.08,0,0,62,Licenciatura,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 12:56:12,4.55,3.68,26.33,34.56,0,0,62,Licenciatura,Basica
 Josefina Chavez(F/61/Level 1),2022-05-16 12:55:14,13.80,47.16,57.82,118.78,0,0,62,Licenciatura,Basica
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:43:30,7.37,08.07,27.38,42.82,1,0,61,Primaria,Básica
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:41:23,8.12,10.89,28.22,47.23,0,0,61,Primaria,Básica
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:26:17,9.61,9.79,29.51,48.90,0,0,61,Primaria,Básica
-Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:04:03,1.93,1.43,2.46,5.81,,,,,
-Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:46,1.88,2.49,2.84,7.22,,,,,
-Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:29,1.75,2.98,3.98,8.71,,,,,
-Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:07,2.73,2.60,3.45,8.78,,,,,
-Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:02:44,21.61,5.00,6.22,32.82,,,,,
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 12:02:40,9.37,10.60,34.13,54.10,0,0,61,Primaria,Básica
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 11:56:56,6.76,6.56,17.32,30.63,0,0,61,Primaria,Básica
-Agustín Pacheco Ríos (M/60/Elderly),2022-05-16 11:51:54,10.52,14.16,28.48,53.17,0,0,61,Primaria,Básica
-Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:13:49,1.63,1.72,3.30,6.65,,,,,
-Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:12:16,1.82,2.20,3.26,7.28,,,,,
-Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:10:38,1.88,1.68,3.92,7.49,,,,,
-Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:09:10,4.12,3.77,5.23,13.13,,,,,
-Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:07:12,7.74,3.86,6.59,18.19,,,,,
-Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:51:08,1.97,1.10,4.50,7.57,3,0,70,Primaria,Básica
-Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:52,1.85,1.28,3.78,6.91,0,1,70,Primaria,Básica
-Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:37,2.52,1.31,7.18,11.00,0,0,70,Primaria,Básica
-Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:14,3.17,2.17,5.55,10.89,0,0,70,Primaria,Básica
-Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:49:34,18.29,08.04,13.19,39.52,0,0,70,Primaria,Básica
+Josue(M/49/Level 2),2022-05-19 5:16:52,02.05,01.06,3.99,7.10,,,,,
+Josue(M/49/Level 2),2022-05-19 5:16:36,0.70,1.96,5.70,8.36,,,,,
+Josue(M/49/Level 2),2022-05-19 5:16:18,4.25,1.82,6.89,12.96,,,,,
+Josue(M/49/Level 2),2022-05-19 5:15:56,04.02,2.25,6.80,13.06,,,,,
+Josue(M/49/Level 2),2022-05-19 5:15:39,1.23,1.75,3.69,6.67,,,,,
+Josue(M/49/Level 2),2022-05-19 5:15:04,03.02,2.44,6.59,12.05,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:26:25,3.23,2.86,4.53,10.62,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:25:56,5.35,2.35,6.52,14.22,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:25:10,03.02,2.51,5.74,11.27,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:24:24,3.23,2.62,6.40,12.24,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:20:33,2.52,3.20,7.97,13.69,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:18:34,4.87,4.87,8.87,18.61,,,,,
+Juan Jesus Flores(M/49/Elderly),2022-05-19 14:18:06,6.21,3.68,9.39,19.28,,,,,
+Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:45,01.02,01.01,1.47,3.50,2,1,71,Secundaria,Intermedio
+Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:34,1.32,0.91,2.21,4.45,0,0,71,Secundaria,Intermedio
+Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:22,1.00,01.07,1.55,3.62,0,0,71,Secundaria,Intermedio
+Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:44:09,1.80,1.61,1.81,5.22,0,0,71,Secundaria,Intermedio
+Juan Manuel Barajas Duran(M/71/Elderly),2022-05-18 12:43:44,5.26,2.65,02.09,10.00,0,0,71,Secundaria,Intermedio
+leticia(F/63/Elderly),2022-05-19 13:05:54,0.74,01.05,3.88,5.67,,,,,
+leticia(F/63/Elderly),2022-05-19 13:05:45,1.22,1.86,3.47,6.55,,,,,
+leticia(F/63/Elderly),2022-05-19 13:05:35,03.07,1.83,3.29,8.19,,,,,
+leticia(F/63/Elderly),2022-05-19 13:05:24,1.96,02.06,4.40,8.42,,,,,
+leticia(F/63/Elderly),2022-05-19 13:05:12,4.17,3.87,5.97,14.00,,,,,
+Luis Alejandro(M/63/Elderly),2022-05-17 12:13:08,1.54,1.14,2.15,4.84,0,0,63,Preparatoria,Media
+Luis Alejandro(M/63/Elderly),2022-05-17 12:12:58,1.74,0.89,2.13,4.76,0,0,63,Preparatoria,Media
+Luis Alejandro(M/63/Elderly),2022-05-17 12:12:47,1.21,1.33,1.97,4.50,0,0,63,Preparatoria,Media
+Luis Alejandro(M/63/Elderly),2022-05-17 12:12:38,2.15,1.79,2.45,6.39,0,0,63,Preparatoria,Media
+Luis Alejandro(M/63/Elderly),2022-05-17 12:08:42,06.08,2.32,2.94,11.33,0,0,63,Preparatoria,Media
+Manuel FLores(M/23/Level 1),2022-05-18 12:59:08,1.54,01.08,1.47,04.09,,,,,
+Manuel FLores(M/23/Level 1),2022-05-18 12:58:39,1.54,01.08,1.47,04.09,,,,,
+Manuel FLores(M/23/Level 1),2022-05-18 12:58:16,2.79,1.98,02.04,6.81,,,,,
+Manuel FLores(M/23/Level 1),2022-05-18 12:57:57,1.55,1.27,2.94,5.76,,,,,
+Manuel FLores(M/23/Level 1),2022-05-18 12:57:41,2.19,2.65,2.73,7.56,,,,,
+Manuel FLores(M/23/Level 1),2022-05-18 12:57:18,4.57,2.93,3.20,10.70,,,,,
+Manuel(M/62/Elderly),2022-05-18 10:42:12,0.64,1.53,2.15,4.32,0,1,62,Preparatoria,Intermedia
+Manuel(M/62/Elderly),2022-05-18 10:42:04,1.57,1.47,2.23,5.27,0,1,62,Preparatoria,Intermedia
+Manuel(M/62/Elderly),2022-05-18 10:41:47,1.82,1.66,3.99,7.46,0,1,62,Preparatoria,Intermedia
+Manuel(M/62/Elderly),2022-05-18 10:41:29,1.33,4.21,03.06,8.59,0,0,62,Preparatoria,Intermedia
+Manuel(M/62/Elderly),2022-05-18 10:30:59,3.00,3.82,13.18,20.00,0,0,62,Preparatoria,Intermedia
+Margarita(F/0/Level 1),2022-05-18 14:09:47,1.80,1.93,4.61,8.34,,,,,
+Margarita(F/0/Level 1),2022-05-18 14:04:37,3.68,4.35,14.84,22.87,,,,,
+Margarita(F/0/Level 1),2022-05-18 14:03:41,6.68,6.23,15.27,28.18,,,,,
+Margarita(F/0/Level 1),2022-05-18 14:03:09,6.35,9.51,19.60,35.46,,,,,
+Margarita(F/0/Level 1),2022-05-18 14:01:54,5.13,03.07,13.98,22.18,,,,,
+Margarita(F/0/Level 1),2022-05-18 13:59:23,03.02,7.79,6.33,17.14,,,,,
+Maria de Jesus(F/50/Level 1),2022-05-16 5:05:25,3.84,2.18,5.83,11.84,0,0,96,Primaria,Basica
+Maria de Jesus(F/50/Level 1),2022-05-16 5:04:57,02.05,2.58,06.04,10.66,2,1,96,Primaria,Basica
+Maria de Jesus(F/50/Level 1),2022-05-16 5:04:33,1.25,2.81,6.50,10.56,0,0,96,Primaria,Basica
+Maria de Jesus(F/50/Level 1),2022-05-16 5:04:05,1.78,2.40,5.72,9.89,0,0,96,Primaria,Basica
+Maria de Jesus(F/50/Level 1),2022-05-16 5:03:44,1.60,1.93,8.94,12.47,0,0,96,Primaria,Basica
+Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:33:46,2.32,1.60,3.14,07.06,3,0,61,Primaria,Basica
+Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:33:29,1.76,1.67,3.23,6.66,0,0,61,Primaria,Basica
+Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:31:44,2.17,1.84,3.78,7.78,0,0,61,Primaria,Basica
+Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:31:23,3.31,2.54,4.89,10.75,0,0,61,Primaria,Basica
+Maria del Rosario Ramos Naranjo(F/61/Elderly),2022-05-18 9:30:47,7.66,8.21,7.23,23.10,0,0,61,Primaria,Basica
+Maria Jimenez(F/67/Elderly),2022-05-19 1:40:32,1.78,2.86,2.82,7.46,0,0,68,Primaria,Intermedia
+Maria Jimenez(F/67/Elderly),2022-05-19 1:39:30,3.26,4.31,3.19,10.76,0,0,68,Primaria,Intermedia
+Maria Jimenez(F/67/Elderly),2022-05-19 1:38:53,03.03,3.46,6.81,13.30,0,0,68,Primaria,Intermedia
+Maria Jimenez(F/67/Elderly),2022-05-19 1:35:44,4.92,5.22,5.14,15.28,0,0,68,Primaria,Intermedia
+Maria Jimenez(F/67/Elderly),2022-05-19 1:34:04,10.64,2.85,6.71,20.20,1,1,68,Primaria,Intermedia
+Maria(F/49/Level 1),2022-05-19 10:41:13,1.73,01.09,2.74,5.56,,,,,
+Maria(F/49/Level 1),2022-05-19 10:40:59,02.08,1.10,3.73,6.91,,,,,
+Maria(F/49/Level 1),2022-05-19 10:40:45,1.93,1.48,4.37,7.78,,,,,
+Maria(F/49/Level 1),2022-05-19 10:40:29,2.85,1.59,17.14,21.57,,,,,
+Maria(F/49/Level 1),2022-05-19 10:39:59,3.16,2.92,4.52,10.60,,,,,
+Maria(F/65/Level 2),2022-05-18 10:33:20,0.77,0.98,3.58,5.32,1,1,65,Secundaria,Basica
+Maria(F/65/Level 2),2022-05-18 10:32:25,1.89,3.85,4.21,9.95,1,1,65,Secundaria,Basica
+Maria(F/65/Level 2),2022-05-18 10:31:45,3.79,2.33,3.19,9.31,0,2,65,Secundaria,Basica
+Maria(F/65/Level 2),2022-05-18 10:30:11,1.71,1.56,6.92,10.18,0,1,65,Secundaria,Basica
+Maria(F/65/Level 2),2022-05-18 10:25:34,11.83,2.89,3.16,17.88,1,0,65,Secundaria,Basica
+Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:13:49,1.63,1.72,3.30,6.65,0,0,60,Secundaria,Nula
+Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:12:16,1.82,2.20,3.26,7.28,0,0,60,Secundaria,Nula
+Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:10:38,1.88,1.68,3.92,7.49,0,0,60,Secundaria,Nula
+Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:09:10,4.12,3.77,5.23,13.13,0,0,60,Secundaria,Nula
+Martha Magaña Reyes(F/65/Level 1),2022-05-16 8:07:12,7.74,3.86,6.59,18.19,0,0,60,Secundaria,Nula
+Miguel (M/66/Level 1),2022-05-24 3:11:09,0.92,1.99,02.02,4.94,5,4,56,Preparatoria,Media
+Miguel (M/66/Level 1),2022-05-24 3:11:01,0.59,1.30,3.51,5.40,4,4,56,Preparatoria,Media
+Miguel (M/66/Level 1),2022-05-24 3:10:53,0.63,1.21,1.42,3.26,1,0,56,Preparatoria,Media
+Miguel (M/66/Level 1),2022-05-24 3:10:47,0.65,0.90,1.48,03.04,0,0,56,Preparatoria,Media
+Miguel (M/66/Level 1),2022-05-24 3:10:39,1.53,01.03,1.52,04.08,0,0,56,Preparatoria,Media
+Miguel (M/66/Level 1),2022-05-24 3:10:31,8.62,4.85,23.82,37.28,0,0,56,Preparatoria,Media
 Mónica Guerrero Becerra (F/62/Elderly),2022-05-16 6:30:36,0.69,1.41,2.72,4.82,,,,,
 Mónica Guerrero Becerra (F/62/Elderly),2022-05-16 6:30:03,0.95,1.54,2.32,4.81,,,,,
 Mónica Guerrero Becerra (F/62/Elderly),2022-05-16 6:29:31,1.61,1.66,2.69,5.95,,,,,
 Mónica Guerrero Becerra (F/62/Elderly),2022-05-16 6:28:47,3.28,1.97,3.33,8.57,,,,,
 Mónica Guerrero Becerra (F/62/Elderly),2022-05-16 6:27:48,14.47,16.53,11.83,42.82,,,,,
-Maria de Jesus(F/50/Level 1),2022-05-16 5:05:25,3.84,2.18,5.83,11.84,,,,,
-Maria de Jesus(F/50/Level 1),2022-05-16 5:04:57,02.05,2.58,06.04,10.66,,,,,
-Maria de Jesus(F/50/Level 1),2022-05-16 5:04:33,1.25,2.81,6.50,10.56,,,,,
-Maria de Jesus(F/50/Level 1),2022-05-16 5:04:05,1.78,2.40,5.72,9.89,,,,,
-Maria de Jesus(F/50/Level 1),2022-05-16 5:03:44,1.60,1.93,8.94,12.47,,,,,
-Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:06:30,1.87,1.53,2.52,5.92,0,0,61,Licenciatura,Elderly
-Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:06:02,1.41,1.50,2.89,5.79,0,0,61,Licenciatura,Elderly
-Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:05:34,1.59,1.75,2.81,6.15,0,0,61,Licenciatura,Elderly
-Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:05:04,02.09,2.57,2.42,07.08,0,0,61,Licenciatura,Elderly
-Dora Luz Becerril Ozuna(F/61/Elderly),2022-05-15 11:04:28,6.98,07.06,2.80,16.83,2,0,61,Licenciatura,Elderly
-Alejandra Ceceña(F/26/Level 1),2022-05-12 13:54:02,1.53,1.55,2.20,5.28,,,,,
-Alejandra Ceceña(F/26/Level 1),2022-05-12 13:51:57,1.80,1.38,1.91,5.10,,,,,
-Alejandra Ceceña(F/26/Level 1),2022-05-12 13:44:13,7.79,2.67,49.90,60.36,,,,,
-Alejandra Ceceña(F/26/Level 1),2022-05-12 13:27:07,2.92,1.69,2.39,7.00,,,,,
+Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:03:15,1.68,1.00,1.48,4.15,,,,,
+Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:52,1.62,01.02,1.40,04.04,,,,,
+Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:36,1.65,1.99,2.31,5.94,,,,,
+Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:02:08,2.62,1.82,2.19,6.63,,,,,
+Norma Angelica Acevedo(F/50/Elderly),2022-05-19 9:01:37,14.49,8.96,3.36,26.80,,,,,
+Omar(M/61/Elderly),2022-05-19 12:07:58,0.90,0.75,1.37,03.01,,,,,
+Omar(M/61/Elderly),2022-05-19 12:07:50,01.07,01.08,1.89,04.04,,,,,
+Omar(M/61/Elderly),2022-05-19 12:07:41,1.21,2.55,2.58,6.34,,,,,
+Omar(M/61/Elderly),2022-05-19 12:07:30,1.34,2.65,2.23,6.22,,,,,
+Omar(M/61/Elderly),2022-05-19 12:07:19,10.60,3.18,3.35,17.13,,,,,
+Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:51:08,1.97,1.10,4.50,7.57,3,0,70,Primaria,Básica
+Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:52,1.85,1.28,3.78,6.91,0,1,70,Primaria,Básica
+Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:37,2.52,1.31,7.18,11.00,0,0,70,Primaria,Básica
+Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:50:14,3.17,2.17,5.55,10.89,0,0,70,Primaria,Básica
+Rosa Alvarez Castellanos(F/50/Level 1),2022-05-16 7:49:34,18.29,08.04,13.19,39.52,0,0,70,Primaria,Básica
+Rosa Hernández(F/50/Elderly),2022-05-17 8:47:49,1.34,0.97,02.03,4.34,,,,,
+Rosa Hernández(F/50/Elderly),2022-05-17 8:47:15,1.21,02.04,4.99,8.24,,,,,
+Rosa Hernández(F/50/Elderly),2022-05-17 8:46:02,1.47,1.29,2.35,5.11,,,,,
+Rosa Hernández(F/50/Elderly),2022-05-17 8:45:21,2.00,1.73,2.48,6.21,,,,,
+Rosa Hernández(F/50/Elderly),2022-05-17 8:44:10,8.63,03.02,2.82,14.47,,,,,
+Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:04:03,1.93,1.43,2.46,5.81,0,0,58,Preparatoria,Básica
+Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:46,1.88,2.49,2.84,7.22,0,0,58,Preparatoria,Básica
+Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:29,1.75,2.98,3.98,8.71,0,0,58,Preparatoria,Básica
+Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:03:07,2.73,2.60,3.45,8.78,0,0,58,Preparatoria,Básica
+Rosario Ramona Peña Lopez(F/58/Elderly),2022-05-16 12:02:44,21.61,5.00,6.22,32.82,2,1,58,Preparatoria,Básica
+Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:55,2.13,02.03,04.05,8.21,,,,,
+Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:42,2.64,2.80,4.14,9.57,,,,,
+Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:09:27,2.37,2.16,21.00,25.53,,,,,
+Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:08:57,2.60,2.27,4.53,9.39,,,,,
+Rosario Samorano Cruz(F/49/Elderly),2022-05-18 2:08:43,2.97,2.48,11.46,16.91,,,,,
 Samantha(F/0/Elderly),2022-05-12 7:37:01,1.96,01.06,1.64,4.65,,,,,
-John(M/34/Level 2),2022-05-11 19:10:30,2.44,1.69,3.95,08.08,,,,,
+Samantha(F/0/Elderly),2022-05-05 7:41:47,12.28,3.99,19.00,35.27,,,,,
 Sample(M/43/Level 1),2022-05-11 18:15:53,0.59,0.86,1.37,2.82,,,,,
+Verenice Alviso(F/62/Elderly),2022-05-19 5:34:58,4.62,4.22,09.02,17.86,,,,,
+Verenice Alviso(F/62/Elderly),2022-05-19 5:34:31,4.14,4.62,18.82,27.58,,,,,
+Verenice Alviso(F/62/Elderly),2022-05-19 5:33:55,3.78,5.26,10.39,19.43,,,,,
+Verenice Alviso(F/62/Elderly),2022-05-19 5:33:26,4.90,5.47,17.80,28.16,,,,,
+Verenice Alviso(F/62/Elderly),2022-05-19 5:32:45,07.09,6.70,10.48,24.28,,,,,
 zain(M/0/Level 1),2022-05-10 18:44:36,1.87,1.55,6.50,9.92,,,,,
 zain(M/0/Level 1),2022-05-10 18:44:26,1.87,1.55,6.50,9.92,,,,,
-Samantha(F/0/Elderly),2022-05-05 7:41:47,12.28,3.99,19.00,35.27,,,,,
